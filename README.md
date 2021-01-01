@@ -25,3 +25,5 @@ Technologies Used:
 Ajax, OpenWeather API
 
 Application Link: https://asravi.github.io/OpenWeather/
+
+https://user-images.githubusercontent.com/21346289/103447359-4e55a200-4c58-11eb-8cf5-751ffd7dd2dd.png 
